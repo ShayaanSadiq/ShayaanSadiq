@@ -4,15 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
-- 🔭 I’m currently working on **GitHub**
+- 🔭 I’m currently working on **improving my Java language skills**
 
-- 🌱 I’m currently learning **NOTHING**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Java Projects**
 
-- 🤝 I’m looking for help with **Frontend-Backend**
+- 🤝 I’m looking for help with **MERN Stack Projects**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **shayaansadiq1402@gmail.com**
 
